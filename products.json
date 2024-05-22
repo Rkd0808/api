@@ -1,0 +1,116 @@
+[
+    {
+        "name": "surface laptop",
+        "price": 999,
+        "feature": true,
+        "company": "microsoft"
+    },
+    {
+        "name": "playstation 5",
+        "price": 499,
+        "feature": true,
+        "company": "sony"
+    },
+    {
+        "name": "noise cancelling headphones",
+        "price": 349,
+        "feature": true,
+        "company": "sony"
+    },
+    {
+        "name": "nest hub",
+        "price": 129,
+        "feature": true,
+        "company": "google"
+    },
+    {
+        "name": "instant pot",
+        "price": 79,
+        "feature": true,
+        "company": "google"
+    },
+    {
+        "name": "galaxy s23",
+        "price": 899,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "pixel 7",
+        "price": 599,
+        "feature": true,
+        "company": "google"
+    },
+    {
+        "name": "iphone10",
+        "price": 399,
+        "company": "apple",
+        "feature": true
+    },
+    {
+        "name": "fitbit sense",
+        "price": 229,
+        "company": "apple",
+        "feature": true
+    },
+    {
+        "name": "smartwatch",
+        "price": 207,
+        "feature": true,
+        "company": "microsoft"
+    },
+    {
+        "name": "laptop",
+        "price": 696,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "camera",
+        "price": 906,
+        "feature": true,
+        "company": "samsung"
+    },
+    {
+        "name": "smartwatch",
+        "price": 312,
+        "feature": true,
+        "company": "microsoft"
+    },
+    {
+        "name": "speaker",
+        "price": 647,
+        "feature": true,
+        "company": "microsoft"
+    },
+    {
+        "name": "laptop",
+        "price": 145,
+        "feature": true,
+        "company": "lg"
+    },
+    {
+        "name": "smartwatch",
+        "price": 354,
+        "feature": true,
+        "company": "microsoft"
+    },
+    {
+        "name": "speaker",
+        "price": 200,
+        "feature": false,
+        "company": "apple"
+    },
+    {
+        "name": "laptop",
+        "price": 669,
+        "feature": true,
+        "company": "lg"
+    },
+    {
+        "name": "speaker",
+        "price": 873,
+        "feature": false,
+        "company": "samsung"
+    }
+]
